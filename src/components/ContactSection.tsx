@@ -22,7 +22,7 @@ export function ContactSection() {
               <div>
                 <h3 className="font-semibold mb-1">Email</h3>
                 <a href="mailto:abhishek@example.com" className="text-muted-foreground hover:text-primary transition-colors">
-                  abhishek@example.com
+                  abhishekah510@gmail.com
                 </a>
               </div>
             </div>
@@ -38,7 +38,7 @@ export function ContactSection() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild className="bg-gradient-primary hover:shadow-glow transition-all duration-300">
-              <a href="mailto:abhishek@example.com">
+              <a href="mailto:abhishekah510@gmail.com">
                 <Mail className="h-4 w-4 mr-2" />
                 Send Email
               </a>
@@ -52,7 +52,7 @@ export function ContactSection() {
             </Button>
 
             <Button variant="outline" asChild>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/abhishek-hiremath-8a8661212" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-4 w-4 mr-2" />
                 LinkedIn
               </a>

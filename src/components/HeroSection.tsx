@@ -38,7 +38,7 @@ export function HeroSection() {
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
               asChild
             >
-              <a href="/resume.pdf" download="Abhishek_Ajjampur_Resume.pdf">
+              <a href="/Abhishek's_Frontend_Resume.pdf" download="Abhishek_Resume.pdf">
                 <Download className="h-4 w-4 mr-2" />
                 Download Resume
               </a>
@@ -49,10 +49,10 @@ export function HeroSection() {
             <a href="https://github.com/Abhishekah05" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <Github className="h-6 w-6" />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="https://www.linkedin.com/in/abhishek-hiremath-8a8661212" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="mailto:abhishek@example.com" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="mailto:abhishekah510@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
               <Mail className="h-6 w-6" />
             </a>
           </div>

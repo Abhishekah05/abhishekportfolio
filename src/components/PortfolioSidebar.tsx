@@ -37,7 +37,7 @@ export function PortfolioSidebar() {
       <SidebarContent className="bg-sidebar">
         <div className="p-6 border-b border-sidebar-border">
           <h2 className={`font-bold text-sidebar-foreground transition-all ${open ? "text-xl" : "text-sm text-center"}`}>
-            {open ? "Abhishek Ajjampur" : "AA"}
+            {open ? "Abhishek Hiremath" : "AA"}
           </h2>
           {open && <p className="text-sm text-muted-foreground mt-1">Frontend Developer</p>}
         </div>
